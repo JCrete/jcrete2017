@@ -9,7 +9,7 @@
 | Time/Room    | Main Room      | Printer Room   | Library       | Chimney   | Scary Room | Hidden Room | Internet Room | Restaurant | Under The Vines |
 | -------------| ------------- | -------------   | ------------- | ----------| ---------- | ----------- | ------------- | ---------- | --------------- |
 | 10:15 - 11:15| Reactive programming  | DevOps scripting  | Machine Learning | Writers Roundable  | Jenkins pipelines  | Java EE Future? | Microservices
-| 11:30 - 12:30| Pattern matching on JVM, Valhalla, FFI  |  SpringBoot  | Replicated State Machines  | Async I/O  | JVM troubleshooting  | Rest event sourcing | Remote Working | 
+| 11:30 - 12:30| Pattern matching on JVM, Valhalla, FFI  |  SpringBoot  | Replicated State Machines  | Async I/O  | JVM troubleshooting  | Rest event sourcing | [Code Reviews](https://github.com/JCrete/jcrete2017/tree/master/Day1/Code_Review) | Remote Working | 
 
 ## Day 2 (18.07.2017)
 
