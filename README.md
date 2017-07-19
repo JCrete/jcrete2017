@@ -8,23 +8,23 @@
 | Time/Room    | Main Room      | Printer Room   | Library       | Chimney   | Scary Room | Hidden Room | Internet Room | Restaurant | Under The Vines |
 | -------------| ------------- | -------------   | ------------- | ----------| ---------- | ----------- | ------------- | ---------- | --------------- |
 | 10:15 - 11:15| Reactive programming  | DevOps scripting  | Machine Learning | Writers Roundable  | Jenkins pipelines  | Java EE Future? | Microservices
-| 11:30 - 12:30| Pattern matching on JVM, Valhalla, FFI  |  SpringBoot  | Replicated State Machines  | Async I/O  | JVM troubleshooting  | Rest event sourcing | [Code Reviews](https://github.com/JCrete/jcrete2017/tree/master/Day1/Code_Review) | Remote Working | 
+| 11:30 - 12:30| Pattern matching on JVM, Valhalla, FFI  |  SpringBoot  | Replicated State Machines  | Async I/O  | JVM troubleshooting  | Rest event sourcing | [Code Reviews](Day1/Session2/Code_Review) | Remote Working | 
 
 ## Day 2 (18.07.2017)
 
 | Time/Room    | Main Room     | Printer Room   | Library       | Chimney   | Scary Room | Hidden Room | Internet Room | Restaurant | Under The Vines |
 | -------------| ------------- | -------------  | ------------- | ----------| ---------- | ----------- | ------------- | ---------- | --------------- |
 | 14:15 - 15:15| Bugs & Coding Styles | Reactive Systems & Journaling | Consistency Oriented Distributed Systems | Serverless Java | DB architecture internals | CRDT | JMM Data visibility explained | Unit test generation | Self PR |
-| 15:30 - 16:30| Monitoring Post Mortem JVM Analysis | VAVR | Java is not bloated | [Java support for DSLs](Day2/DSLs) | Microservices frameworks | Skip staging | | Dynamic Languages Speed | Contributing to Open Source
+| 15:30 - 16:30| Monitoring Post Mortem JVM Analysis | VAVR | Java is not bloated | [Java support for DSLs](Day2/Session2/DSLs) | Microservices frameworks | Skip staging | | Dynamic Languages Speed | Contributing to Open Source
 | 16:45 - 17:45| Optional & named parameters | Alternate processors | IDE config | Annotation processing | JVM internals | Repo layout | Event-storming | Health, stress burnout|
 
 ## Day 3 (19.07.2017)
 
 | Time/Room    | Main Room     | Printer Room   | Library       | Chimney   | Scary Room | Hidden Room | Internet Room | Restaurant | Under The Vines |
 | -------------| ------------- | -------------  | ------------- | ----------| ---------- | ----------- | ------------- | ---------- | --------------- |
-| 09:00 - 10:00| Jigsaw deficiencies | Functional Reactive Programming with JavaFX | Micro profile | Getting from fixed to growth | Emotional processing | JShell | Java 4 Kids | Kotlin | - |
-| 10:15 - 11:15| Non-Jigsaw Java 9 features | Legacy protocols | Big data |  All about space with Sven | Annotation-driven development | Java & NoSQL | Desktop Java | JEE profiler | - |
-| 11:30 - 12:30| Apache NetBeans | JDK 9 Deprecation | Bytecode pattern matching | Are you still in JS denial? | G1 tuning | - | Frameworks & Tools | Exception & Error Handling | - |
+| 09:00 - 10:00| [Jigsaw deficiencies](Day3/Session1/Java 9 Jigsaw Deficiencies.pdf) | Functional Reactive Programming with JavaFX | Micro profile | Getting from fixed to growth | Emotional processing | JShell | [Java 4 Kids](Day3/Session1/Programming_for_Kids/) | Kotlin | - |
+| 10:15 - 11:15| [Non-Jigsaw Java 9 features](Day3/Session2/Overview of Java 9 Features.pdf) | Legacy protocols | Big data |  All about space with Sven | Annotation-driven development | Java & NoSQL | Desktop Java | JEE profiler | - |
+| 11:30 - 12:30| Apache NetBeans | JDK 9 Deprecation | Bytecode pattern matching | Are you still in JS denial? | G1 tuning | - | Frameworks & Tools | [Exception & Error Handling](Day3/Session3/Exception_handling/) | - |
 
 ## Day 4 (20.07.2017)
 
