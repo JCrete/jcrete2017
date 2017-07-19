@@ -22,9 +22,9 @@
 
 | Time/Room    | Main Room     | Printer Room   | Library       | Chimney   | Scary Room | Hidden Room | Internet Room | Restaurant | Under The Vines |
 | -------------| ------------- | -------------  | ------------- | ----------| ---------- | ----------- | ------------- | ---------- | --------------- |
-| 09:00 - 10:00|        
-| 10:10 - 11:10|               
-| 11:20 - 12:20| 
+| 09:00 - 10:00| Jigsaw deficiencies | Functional Reactive Programming with JavaFX | Micro profile | Getting from fixed to growth | Emotional processing | JShell | Java 4 Kids | Kotlin | - |
+| 10:15 - 11:15| Non-Jigsaw Java 9 features | Legacy protocols | Big data |  All about space with Sven | Annotation-driven development | Java & NoSQL | Desktop Java | JEE profiler | - |
+| 11:30 - 12:30| Apache NetBeans | JDK 9 Deprecation | Bytecode pattern matching | Are you still in JS denial? | G1 tuning | - | Frameworks & Tools | Exception & Error Handling | - |
 
 ## Day 4 (20.07.2017)
 
