@@ -15,7 +15,7 @@
 | Time/Room    | Main Room     | Printer Room   | Library       | Chimney   | Scary Room | Hidden Room | Internet Room | Restaurant | Under The Vines |
 | -------------| ------------- | -------------  | ------------- | ----------| ---------- | ----------- | ------------- | ---------- | --------------- |
 | 14:15 - 15:15| Bugs & Coding Styles | Reactive Systems & Journaling | Consistency Oriented Distributed Systems | Serverless Java | DB architecture internals | CRDT | JMM Data visibility explained | Unit test generation | Self PR |
-| 15:30 - 16:30| Monitoring Post Mortem JVM Analysis | VAVR | Java is not bloated | Java support for DSLs | Microservices frameworks | Skip staging | | Dynamic Languages Speed | Contributing to Open Source
+| 15:30 - 16:30| Monitoring Post Mortem JVM Analysis | VAVR | Java is not bloated | [Java support for DSLs](Day2/DSLs) | Microservices frameworks | Skip staging | | Dynamic Languages Speed | Contributing to Open Source
 | 16:45 - 17:45| Optional & named parameters | Alternate processors | IDE config | Annotation processing | JVM internals | Repo layout | Event-storming | Health, stress burnout|
 
 ## Day 3 (19.07.2017)
