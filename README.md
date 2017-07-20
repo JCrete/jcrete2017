@@ -30,13 +30,16 @@
 
 | Time/Room    | Main Room     | Printer Room   | Library       | Chimney   | Scary Room | Hidden Room | Internet Room | Restaurant | Under The Vines |
 | -------------| ------------- | -------------  | ------------- | ----------| ---------- | ----------- | ------------- | ---------- | --------------- |
-| 09:00 - 10:00| [Talk 2R Compiler 4 dummies](https://www.slideshare.net/jjfumero/justintime-gpu-compilation-for-interpreted-languages-with-partial-evaluation) | Java I/O | From fixed to Growth mindset | Benchmarks | ORM | Personal Identifiable Information (PII) | Fast File Transfer with Raspberry Pi |       
-| 10:15 - 11:15| Debugging Java & DB | Complex flows in distributed systems | Java on GPU | Integration testing best practices | Mockito | Infrastructure Options | Human Interactive Protocol |       
-| 11:30 - 12:30| Live streaming | Intro to JVM Bytecode | New observer pattern API? | RUST language | Java class reloading | UI Testing | Testing distributed systems |
+| 09:00 - 10:00| [Talk 2R Compiler 4 dummies](https://www.slideshare.net/jjfumero/justintime-gpu-compilation-for-interpreted-languages-with-partial-evaluation) | Java I/O | From fixed to Growth mindset | | Benchmarks | ORM | Personal Identifiable Information (PII) | Fast File Transfer with Raspberry Pi |       
+| 10:15 - 11:15| Debugging Java & DB | Complex flows in distributed systems | Java on GPU | | Integration testing best practices | Mockito | Infrastructure Options | Human Interactive Protocol |       
+| 11:30 - 12:30| Live streaming | Intro to JVM Bytecode | New observer pattern API? | REST APIs | RUST language | Java class reloading | UI Testing | Testing distributed systems |
 
-## Day 5 - Hackday
+## Day 5 - Hackday (21.07.2017)
+| Time/Room    | Main Room     | 
+| -------------| ------------- | 
+| 09:00 - 12:30| Hack day      |
 
-## Days6-7 JCrete4Kids
+## Days 6-7 JCrete4Kids (22.07.2017 - 23.07.2017)
 [Material](JCrete4Kids)
 
 ## Photos
