@@ -1,4 +1,4 @@
-# JCrete 2017 Material 
+# JCrete 2017 Material
 
 * [Introduction to JCrete]
 * [OAC Introduction by Dr. Zorbas]
@@ -22,18 +22,18 @@
 
 | Time/Room    | Main Room     | Printer Room   | Library       | Chimney   | Scary Room | Hidden Room | Internet Room | Restaurant | Under The Vines |
 | -------------| ------------- | -------------  | ------------- | ----------| ---------- | ----------- | ------------- | ---------- | --------------- |
-| 09:00 - 10:00| Jigsaw deficiencies [pdf](Day3/Session1/Java 9 Jigsaw Deficiencies.pdf) | Functional Reactive Programming with JavaFX | Micro profile | Getting from fixed to growth | Emotional processing | JShell | [Java 4 Kids](Day3/Session1/Programming_for_Kids/) | Kotlin | - |
-| 10:15 - 11:15| Non-Jigsaw Java 9 features [pdf](Day3/Session2/Overview of Java 9 Features.pdf) | Legacy protocols | Big data |  All about space with Sven | Annotation-driven development | Java & NoSQL | Desktop Java | JEE profiler | - |
+<<<<<<< HEAD
+| 09:00 - 10:00| Jigsaw deficiencies [pdf](Day3/Session1/Java 9 Jigsaw Deficiencies.pdf) | Functional Reactive Programming with JavaFX | [MicroProfile](Day3/MicroProfile/README.md) | Getting from fixed to growth | Emotional processing | JShell | [Java 4 Kids](Day3/Session1/Programming_for_Kids/) | Kotlin | - |
+| 10:15 - 11:15| Non-Jigsaw Java 9 features [pdf](Day3/Session2/Overview of Java 9 Features.pdf) | Legacy protocols | Big data |  All about space with Sven | Annotation-driven development | Java & NoSQL | Desktop Java | [Java & Docker Alignment](Day3/Session2/Java-Docker-Alignment/README.md) | - |
 | 11:30 - 12:30| Apache NetBeans | JDK 9 Deprecation | Bytecode pattern matching | Are you still in JS denial? | G1 tuning | - | Frameworks & Tools | [Exception & Error Handling](Day3/Session3/Exception_handling/) | - |
 
 ## Day 4 (20.07.2017)
 
-
 | Time/Room    | Main Room     | Printer Room   | Library       | Chimney   | Scary Room | Hidden Room | Internet Room | Restaurant | Under The Vines |
 | -------------| ------------- | -------------  | ------------- | ----------| ---------- | ----------- | ------------- | ---------- | --------------- |
-| 09:00 - 10:00|        
-| 10:10 - 11:10|               
-| 11:20 - 12:20| 
+| 09:00 - 10:00| Talk 2R Compiler 4 dummies | Java I/O | From fixed to Growth mindset | Benchmarks | ORM | Personal Identifiable Information (PII) | Fast File Transfer with Raspberry Pi |       
+| 10:10 - 11:10| Java on GPU | Complex flows in distributed systems | Debugging Java & DB | Integration testing best practices | Mockito | Infrastructure Options | Human Interactive Protocol |       
+| 11:20 - 12:20| Live streaming | Intro to JVM Bytecode | New observer pattern API? | RUST language | Java class reloading | UI Testing | Testing distributed systems |
 
 ## Day 5 - Hackday
 
