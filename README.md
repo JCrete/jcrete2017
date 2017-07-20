@@ -31,7 +31,7 @@
 | Time/Room    | Main Room     | Printer Room   | Library       | Chimney   | Scary Room | Hidden Room | Internet Room | Restaurant | Under The Vines |
 | -------------| ------------- | -------------  | ------------- | ----------| ---------- | ----------- | ------------- | ---------- | --------------- |
 | 09:00 - 10:00| Talk 2R Compiler 4 dummies | Java I/O | From fixed to Growth mindset | Benchmarks | ORM | Personal Identifiable Information (PII) | Fast File Transfer with Raspberry Pi |       
-| 10:10 - 11:10| Java on GPU | Complex flows in distributed systems | Debugging Java & DB | Integration testing best practices | Mockito | Infrastructure Options | Human Interactive Protocol |       
+| 10:10 - 11:10| Debugging Java & DB | Complex flows in distributed systems | Java on GPU | Integration testing best practices | Mockito | Infrastructure Options | Human Interactive Protocol |       
 | 11:20 - 12:20| Live streaming | Intro to JVM Bytecode | New observer pattern API? | RUST language | Java class reloading | UI Testing | Testing distributed systems |
 
 ## Day 5 - Hackday
