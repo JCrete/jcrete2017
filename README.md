@@ -24,7 +24,7 @@
 | -------------| ------------- | -------------  | ------------- | ----------| ---------- | ----------- | ------------- | ---------- | --------------- |
 | 09:00 - 10:00| Jigsaw deficiencies | Functional Reactive Programming with JavaFX | [MicroProfile](Day3/MicroProfile/README.md) | Getting from fixed to growth | Emotional processing | JShell | [Java 4 Kids](Day3/Programming_for_Kids/README.md) | Kotlin | - |
 | 10:15 - 11:15| Non-Jigsaw Java 9 features | Legacy protocols | Big data |  All about space with Sven | Annotation-driven development | Java & NoSQL | Desktop Java | JEE profiler | - |
-| 11:30 - 12:30| Apache NetBeans | JDK 9 Deprecation | Bytecode pattern matching | Are you still in JS denial? | G1 tuning | - | Frameworks & Tools | Exception & Error Handling | - |
+| 11:30 - 12:30| Apache NetBeans | JDK 9 Deprecation | Bytecode pattern matching | Are you still in JS denial? | G1 tuning | - | Frameworks & Tools | [Exception & Error Handling](Day3/Exception_handling/README.md) | - |
 
 ## Day 4 (20.07.2017)
 
