@@ -1,4 +1,4 @@
-# JCrete 2017 Material 
+# JCrete 2017 Material
 
 * [Introduction to JCrete]
 * [OAC Introduction by Dr. Zorbas]
@@ -8,7 +8,7 @@
 | Time/Room    | Main Room      | Printer Room   | Library       | Chimney   | Scary Room | Hidden Room | Internet Room | Restaurant | Under The Vines |
 | -------------| ------------- | -------------   | ------------- | ----------| ---------- | ----------- | ------------- | ---------- | --------------- |
 | 10:15 - 11:15| Reactive programming  | DevOps scripting  | Machine Learning | Writers Roundable  | Jenkins pipelines  | Java EE Future? | Microservices
-| 11:30 - 12:30| Pattern matching on JVM, Valhalla, FFI  |  SpringBoot  | Replicated State Machines  | Async I/O  | JVM troubleshooting  | Rest event sourcing | [Code Reviews](https://github.com/JCrete/jcrete2017/tree/master/Day1/Code_Review) | Remote Working | 
+| 11:30 - 12:30| Pattern matching on JVM, Valhalla, FFI  |  SpringBoot  | Replicated State Machines  | Async I/O  | JVM troubleshooting  | Rest event sourcing | [Code Reviews](https://github.com/JCrete/jcrete2017/tree/master/Day1/Code_Review) | Remote Working |
 
 ## Day 2 (18.07.2017)
 
@@ -22,7 +22,7 @@
 
 | Time/Room    | Main Room     | Printer Room   | Library       | Chimney   | Scary Room | Hidden Room | Internet Room | Restaurant | Under The Vines |
 | -------------| ------------- | -------------  | ------------- | ----------| ---------- | ----------- | ------------- | ---------- | --------------- |
-| 09:00 - 10:00| Jigsaw deficiencies | Functional Reactive Programming with JavaFX | Micro profile | Getting from fixed to growth | Emotional processing | JShell | Java 4 Kids | Kotlin | - |
+| 09:00 - 10:00| Jigsaw deficiencies | Functional Reactive Programming with JavaFX | [MicroProfile](Day3/MicroProfile/README.md) | Getting from fixed to growth | Emotional processing | JShell | Java 4 Kids | Kotlin | - |
 | 10:15 - 11:15| Non-Jigsaw Java 9 features | Legacy protocols | Big data |  All about space with Sven | Annotation-driven development | Java & NoSQL | Desktop Java | JEE profiler | - |
 | 11:30 - 12:30| Apache NetBeans | JDK 9 Deprecation | Bytecode pattern matching | Are you still in JS denial? | G1 tuning | - | Frameworks & Tools | Exception & Error Handling | - |
 
@@ -33,7 +33,7 @@
 | -------------| ------------- | -------------  | ------------- | ----------| ---------- | ----------- | ------------- | ---------- | --------------- |
 | 09:00 - 10:00|        
 | 10:10 - 11:10|               
-| 11:20 - 12:20| 
+| 11:20 - 12:20|
 
 ## Day 5 - Hackday
 
