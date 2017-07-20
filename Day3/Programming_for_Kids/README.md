@@ -33,3 +33,5 @@ Hour of code: https://code.org/learn
 
 Raspberry Pi Traffic crossing HAT: https://4tronix.co.uk/store/index.php?rt=product/product&product_id=594
 
+German language micro:bit clone (nice, open source hardware!) https://calliope.cc
+
