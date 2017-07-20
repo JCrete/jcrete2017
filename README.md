@@ -8,31 +8,31 @@
 | Time/Room    | Main Room      | Printer Room   | Library       | Chimney   | Scary Room | Hidden Room | Internet Room | Restaurant | Under The Vines |
 | -------------| ------------- | -------------   | ------------- | ----------| ---------- | ----------- | ------------- | ---------- | --------------- |
 | 10:15 - 11:15| Reactive programming  | DevOps scripting  | Machine Learning | Writers Roundable  | Jenkins pipelines  | Java EE Future? | Microservices
-| 11:30 - 12:30| Pattern matching on JVM, Valhalla, FFI  |  SpringBoot  | Replicated State Machines  | Async I/O  | JVM troubleshooting  | Rest event sourcing | [Code Reviews](Day1/Session2/Code_Review) | Remote Working | 
+| 11:30 - 12:30| [Pattern matching on JVM, Valhalla, FFI](https://www.pscp.tv/_nighthacking/1OyKArPggpqGb)  |  SpringBoot  | Replicated State Machines  | Async I/O  | JVM troubleshooting  | Rest event sourcing | [Code Reviews](Day1/Session2/Code_Review) | Remote Working | 
 
 ## Day 2 (18.07.2017)
 
 | Time/Room    | Main Room     | Printer Room   | Library       | Chimney   | Scary Room | Hidden Room | Internet Room | Restaurant | Under The Vines |
 | -------------| ------------- | -------------  | ------------- | ----------| ---------- | ----------- | ------------- | ---------- | --------------- |
-| 14:15 - 15:15| Bugs & Coding Styles | Reactive Systems & Journaling | Consistency Oriented Distributed Systems | Serverless Java | DB architecture internals | CRDT | JMM Data visibility explained | Unit test generation | Self PR |
-| 15:30 - 16:30| Monitoring Post Mortem JVM Analysis | VAVR | Java is not bloated | [Java support for DSLs](Day2/Session2/DSLs) | Microservices frameworks | Skip staging | | Dynamic Languages Speed | Contributing to Open Source
-| 16:45 - 17:45| Optional & named parameters | Alternate processors | IDE config | Annotation processing | JVM internals | Repo layout | Event-storming | Health, stress burnout|
+| 14:15 - 15:15| [Bugs & Coding Styles](Day2/Session1/Coding_Style) | Reactive Systems & Journaling | Consistency Oriented Distributed Systems | Serverless Java | DB architecture internals | CRDT | JMM Data visibility explained | Unit test generation | Self PR |
+| 15:30 - 16:30| [Monitoring Post Mortem JVM Analysis](https://www.pscp.tv/_nighthacking/1lDxLkZEjOaJm) | VAVR | Java is not bloated | [Java support for DSLs](Day2/Session2/DSLs) | Microservices frameworks | [Skip staging?](Day2/Session2/Staging) | | Dynamic Languages Speed | Contributing to Open Source
+| 16:45 - 17:45| [Optional & named parameters](https://www.pscp.tv/_nighthacking/1MYGNXbQeDRxw) | Alternate processors | IDE config | Annotation processing | JVM internals | Repo layout | [Event-storming](Day2/Session3/Event_Storming) | [Health, stress burnout](Day2/Session3/Health)|
 
 ## Day 3 (19.07.2017)
 
 | Time/Room    | Main Room     | Printer Room   | Library       | Chimney   | Scary Room | Hidden Room | Internet Room | Restaurant | Under The Vines |
 | -------------| ------------- | -------------  | ------------- | ----------| ---------- | ----------- | ------------- | ---------- | --------------- |
-| 09:00 - 10:00| Jigsaw deficiencies [pdf](Day3/Session1/Java_9_Jigsaw_Deficiencies.pdf) | Functional Reactive Programming with JavaFX | [MicroProfile](Day3/Session1/MicroProfile/README.md) | Getting from fixed to growth | Emotional processing | JShell | [Java 4 Kids](Day3/Session1/Programming_for_Kids/) | Kotlin | - |
-| 10:15 - 11:15| Non-Jigsaw Java 9 features [pdf](Day3/Session2/Overview_of_Java_9_Features.pdf) | Legacy protocols | Big data |  All about space with Sven | Annotation-driven development | Java & NoSQL | Desktop Java | [Java & Docker Alignment](Day3/Session2/Java-Docker-Alignment/README.md) | - |
-| 11:30 - 12:30| Apache NetBeans | JDK 9 Deprecation | Bytecode pattern matching | Are you still in JS denial? | G1 tuning | - | Frameworks & Tools | [Exception & Error Handling](Day3/Session3/Exception_handling/) | - |
+| 09:00 - 10:00| Jigsaw deficiencies [pdf](Day3/Session1/Java_9_Jigsaw_Deficiencies.pdf) (Video)[https://www.pscp.tv/_nighthacking/1yoKMpNBpXwxQ]| Functional Reactive Programming with JavaFX | [MicroProfile](Day3/Session1/MicroProfile/README.md) | Getting from fixed to growth | Emotional processing | JShell | [Java 4 Kids](Day3/Session1/Programming_for_Kids/) | Kotlin | - |
+| 10:15 - 11:15| Non-Jigsaw Java 9 features [pdf](Day3/Session2/Overview_of_Java_9_Features.pdf)(Video)[https://www.pscp.tv/_nighthacking/1kvJpjNQMeVKE] | Legacy protocols | Big data |  All about space with Sven | Annotation-driven development | Java & NoSQL | Desktop Java | [Java & Docker Alignment](Day3/Session2/Java-Docker-Alignment/README.md) | - |
+| 11:30 - 12:30| [Apache NetBeans](https://www.pscp.tv/_nighthacking/1vOxwOnOpOrxB) | JDK 9 Deprecation | Bytecode pattern matching | Are you still in JS denial? | G1 tuning | - | Frameworks & Tools | [Exception & Error Handling](Day3/Session3/Exception_handling/) | - |
 
 ## Day 4 (20.07.2017)
 
 | Time/Room    | Main Room     | Printer Room   | Library       | Chimney   | Scary Room | Hidden Room | Internet Room | Restaurant | Under The Vines |
 | -------------| ------------- | -------------  | ------------- | ----------| ---------- | ----------- | ------------- | ---------- | --------------- |
-| 09:00 - 10:00| [Talk 2R Compiler 4 dummies](https://www.slideshare.net/jjfumero/justintime-gpu-compilation-for-interpreted-languages-with-partial-evaluation) | Java I/O | From fixed to Growth mindset | Starting a new company | Benchmarks | ORM | Personal Identifiable Information (PII) | Fast File Transfer with Raspberry Pi |       
-| 10:15 - 11:15| Debugging Java & DB | Complex flows in distributed systems | Java on GPU | How to un-organize and organized conference | Integration testing best practices | Mockito | Infrastructure Options | Human Interactive Protocol |       
-| 11:30 - 12:30| Live streaming | Intro to JVM Bytecode | New observer pattern API? | REST APIs | RUST language | Java class reloading | UI Testing | Testing distributed systems |
+| 09:00 - 10:00| [Talk 2 your Compiler 4 dummies](https://www.slideshare.net/jjfumero/justintime-gpu-compilation-for-interpreted-languages-with-partial-evaluation) (Video)[https://www.pscp.tv/w/1lPJqwNbmjPKb] | Java I/O | From fixed to Growth mindset | Starting a new company | Benchmarks | ORM | [Personal Identifiable Information (PII)](Day4/Session1/PII) | Fast File Transfer with Raspberry Pi |       
+| 10:15 - 11:15| [Debugging Java & DB](https://www.pscp.tv/w/1lPJqwNbmjPKb) | [Complex flows in distributed systems](Day4/Session2/EventFlow) | Java on GPU | How to un-organize and organized conference | Integration testing best practices | Mockito | Infrastructure Options | Human Interactive Protocol |       
+| 11:30 - 12:30| [Live streaming](https://www.pscp.tv/w/1MnxnmBDolMJO) | Intro to JVM Bytecode | New observer pattern API? | REST APIs | RUST language | Java class reloading | [UI Testing](Day4/Session3/UITesting) | Testing distributed systems |
 
 ## Day 5 - Hackday (21.07.2017)
 | Time/Room    | Main Room     | 
