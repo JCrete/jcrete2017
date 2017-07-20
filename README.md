@@ -36,6 +36,8 @@
 
 ## Day 5 - Hackday
 
+## Days6-7 JCrete4Kids
+[Material](JCrete4Kids)
 
 ## Photos
 
