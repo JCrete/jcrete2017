@@ -1,7 +1,7 @@
 # JCrete 2017 Material
 
-* [Introduction to JCrete]
-* [OAC Introduction by Dr. Zorbas]
+* Introduction to JCrete
+* OAC Introduction by Dr. Zorbas
 
 ## Day 1 (17.07.2017)
 
@@ -30,8 +30,8 @@
 
 | Time/Room    | Main Room     | Printer Room   | Library       | Chimney   | Scary Room | Hidden Room | Internet Room | Restaurant | Under The Vines |
 | -------------| ------------- | -------------  | ------------- | ----------| ---------- | ----------- | ------------- | ---------- | --------------- |
-| 09:00 - 10:00| [Talk 2R Compiler 4 dummies](https://www.slideshare.net/jjfumero/justintime-gpu-compilation-for-interpreted-languages-with-partial-evaluation) | Java I/O | From fixed to Growth mindset | | Benchmarks | ORM | Personal Identifiable Information (PII) | Fast File Transfer with Raspberry Pi |       
-| 10:15 - 11:15| Debugging Java & DB | Complex flows in distributed systems | Java on GPU | | Integration testing best practices | Mockito | Infrastructure Options | Human Interactive Protocol |       
+| 09:00 - 10:00| [Talk 2R Compiler 4 dummies](https://www.slideshare.net/jjfumero/justintime-gpu-compilation-for-interpreted-languages-with-partial-evaluation) | Java I/O | From fixed to Growth mindset | Starting a new company | Benchmarks | ORM | Personal Identifiable Information (PII) | Fast File Transfer with Raspberry Pi |       
+| 10:15 - 11:15| Debugging Java & DB | Complex flows in distributed systems | Java on GPU | How to un-organize and organized conference | Integration testing best practices | Mockito | Infrastructure Options | Human Interactive Protocol |       
 | 11:30 - 12:30| Live streaming | Intro to JVM Bytecode | New observer pattern API? | REST APIs | RUST language | Java class reloading | UI Testing | Testing distributed systems |
 
 ## Day 5 - Hackday (21.07.2017)
@@ -44,6 +44,8 @@
 
 ## Photos
 
+* [Feedback, Session Pictures, Whiteboard Notes, Schedule](https://www.dropbox.com/sh/kpyw1xirctniwmo/AADb4GLEkKEStgbRwVALepkIa?dl=0)
+    * Please grab the Whiteboard Notes, copy/upload somewhere stable and link them from the schedule
 
 ## Adding Materials
 
