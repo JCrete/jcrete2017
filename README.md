@@ -22,15 +22,15 @@
 
 | Time/Room    | Main Room     | Printer Room   | Library       | Chimney   | Scary Room | Hidden Room | Internet Room | Restaurant | Under The Vines |
 | -------------| ------------- | -------------  | ------------- | ----------| ---------- | ----------- | ------------- | ---------- | --------------- |
-| 09:00 - 10:00| Jigsaw deficiencies [pdf](Day3/Session1/Java_9_Jigsaw_Deficiencies.pdf) (Video)[https://www.pscp.tv/_nighthacking/1yoKMpNBpXwxQ]| Functional Reactive Programming with JavaFX | [MicroProfile](Day3/Session1/MicroProfile/README.md) | Getting from fixed to growth | Emotional processing | JShell | [Java 4 Kids](Day3/Session1/Programming_for_Kids/) | Kotlin | - |
-| 10:15 - 11:15| Non-Jigsaw Java 9 features [pdf](Day3/Session2/Overview_of_Java_9_Features.pdf)(Video)[https://www.pscp.tv/_nighthacking/1kvJpjNQMeVKE] | Legacy protocols | Big data |  All about space with Sven | Annotation-driven development | Java & NoSQL | Desktop Java | [Java & Docker Alignment](Day3/Session2/Java-Docker-Alignment/README.md) | - |
+| 09:00 - 10:00| Jigsaw deficiencies [pdf](Day3/Session1/Java_9_Jigsaw_Deficiencies.pdf) [Video](https://www.pscp.tv/_nighthacking/1yoKMpNBpXwxQ)| Functional Reactive Programming with JavaFX | [MicroProfile](Day3/Session1/MicroProfile/README.md) | Getting from fixed to growth | Emotional processing | JShell | [Java 4 Kids](Day3/Session1/Programming_for_Kids/) | Kotlin | - |
+| 10:15 - 11:15| Non-Jigsaw Java 9 features [pdf](Day3/Session2/Overview_of_Java_9_Features.pdf) [Video](https://www.pscp.tv/_nighthacking/1kvJpjNQMeVKE) | Legacy protocols | Big data |  All about space with Sven | Annotation-driven development | Java & NoSQL | Desktop Java | [Java & Docker Alignment](Day3/Session2/Java-Docker-Alignment/README.md) | - |
 | 11:30 - 12:30| [Apache NetBeans](https://www.pscp.tv/_nighthacking/1vOxwOnOpOrxB) | JDK 9 Deprecation | Bytecode pattern matching | Are you still in JS denial? | G1 tuning | - | Frameworks & Tools | [Exception & Error Handling](Day3/Session3/Exception_handling/) | - |
 
 ## Day 4 (20.07.2017)
 
 | Time/Room    | Main Room     | Printer Room   | Library       | Chimney   | Scary Room | Hidden Room | Internet Room | Restaurant | Under The Vines |
 | -------------| ------------- | -------------  | ------------- | ----------| ---------- | ----------- | ------------- | ---------- | --------------- |
-| 09:00 - 10:00| [Talk 2 your Compiler 4 dummies](https://www.slideshare.net/jjfumero/justintime-gpu-compilation-for-interpreted-languages-with-partial-evaluation) (Video)[https://www.pscp.tv/w/1lPJqwNbmjPKb] | Java I/O | From fixed to Growth mindset | Starting a new company | Benchmarks | ORM | [Personal Identifiable Information (PII)](Day4/Session1/PII) | Fast File Transfer with Raspberry Pi |       
+| 09:00 - 10:00| [Talk 2 your Compiler 4 dummies](https://www.slideshare.net/jjfumero/justintime-gpu-compilation-for-interpreted-languages-with-partial-evaluation) [Video](https://www.pscp.tv/w/1lPJqwNbmjPKb) | Java I/O | From fixed to Growth mindset | Starting a new company | Benchmarks | ORM | [Personal Identifiable Information (PII)](Day4/Session1/PII) | Fast File Transfer with Raspberry Pi |       
 | 10:15 - 11:15| [Debugging Java & DB](https://www.pscp.tv/w/1lPJqwNbmjPKb) | [Complex flows in distributed systems](Day4/Session2/EventFlow) | Java on GPU | How to un-organize and organized conference | Integration testing best practices | Mockito | Infrastructure Options | Human Interactive Protocol |       
 | 11:30 - 12:30| [Live streaming](https://www.pscp.tv/w/1MnxnmBDolMJO) | Intro to JVM Bytecode | New observer pattern API? | REST APIs | RUST language | Java class reloading | [UI Testing](Day4/Session3/UITesting) | Testing distributed systems |
 
