@@ -7,7 +7,7 @@ Implementation can be a *[Process Manager](http://www.enterpriseintegrationpatte
 
 Process Manager does not necessarily mean you have a "central" BPM engine, but can be embedded in each microservice.
 
-![pic1](pic1)
+![pic1](pic1.jpg)
 
 Microservices might communicate via event bus (Kafka, Rabbit, ...). This case typically the consumer is coupled (I know I have to listen to event X) and not the sender (I know I have to call X now). It is typically more flexible to add new consumers then. Compensation chains might be tricky to implement without coupling in two ways.
 
@@ -15,7 +15,7 @@ Direct communication between the services means you couple it tightly and you ha
 
 BPM could help with it to orchestrate.
 
-![pic2](pic2)
+![pic2](pic2.jpg)
 
 Example of "ebay-like" service:
 * Send avro messages which have a Schema 
