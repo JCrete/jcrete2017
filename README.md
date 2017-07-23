@@ -14,7 +14,7 @@
 
 | Time/Room    | Main Room     | Printer Room   | Library       | Chimney   | Scary Room | Hidden Room | Internet Room | Restaurant | Under The Vines |
 | -------------| ------------- | -------------  | ------------- | ----------| ---------- | ----------- | ------------- | ---------- | --------------- |
-| 14:15 - 15:15| [Bugs & Coding Styles](Day2/Session1/Coding_Style) | Reactive Systems & Journaling | Consistency Oriented Distributed Systems | Serverless Java | DB architecture internals | CRDT | JMM Data visibility explained | Unit test generation | Self PR |
+| 14:15 - 15:15| [Bugs & Coding Styles](Day2/Session1/Coding_Style) | Reactive Systems & Journaling | Consistency Oriented Distributed Systems | Serverless Java | DB architecture internals | CRDT | JMM Data visibility explained | [Unit test generation](Day2/Session1/TestGeneration_MutationTesting) | Self PR |
 | 15:30 - 16:30| [Monitoring Post Mortem JVM Analysis](https://www.pscp.tv/_nighthacking/1lDxLkZEjOaJm) | VAVR | Java is not bloated | [Java support for DSLs](Day2/Session2/DSLs) | Microservices frameworks | [Skip staging?](Day2/Session2/Staging) | | Dynamic Languages Speed | Contributing to Open Source
 | 16:45 - 17:45| [Optional & named parameters](https://www.pscp.tv/_nighthacking/1MYGNXbQeDRxw) | Alternate processors | IDE config | Annotation processing | JVM internals | Repo layout | [Event-storming](Day2/Session3/Event_Storming) | [Health, stress burnout](Day2/Session3/Health)|
 
