@@ -8,7 +8,7 @@
 | Time/Room    | Main Room      | Printer Room   | Library       | Chimney   | Scary Room | Hidden Room | Internet Room | Restaurant | Under The Vines |
 | -------------| ------------- | -------------   | ------------- | ----------| ---------- | ----------- | ------------- | ---------- | --------------- |
 | 10:15 - 11:15| Reactive programming  | DevOps scripting  | Machine Learning | Writers Roundable  | Jenkins pipelines  | Java EE Future? | Microservices
-| 11:30 - 12:30| [Pattern matching on JVM, Valhalla, FFI](https://www.pscp.tv/_nighthacking/1OyKArPggpqGb)  |  SpringBoot  | Replicated State Machines  | Async I/O  | JVM troubleshooting  | Rest event sourcing | [Code Reviews](Day1/Session2/Code_Review) | Remote Working | 
+| 11:30 - 12:30| [Pattern matching on JVM, Valhalla, FFI](https://www.pscp.tv/_nighthacking/1OyKArPggpqGb)  |  SpringBoot  | Replicated State Machines  | Async I/O  | JVM troubleshooting  | Rest event sourcing | [Code Reviews](Day1/Session2/Code_Review) | [Remote Working](Day1/Session2/RemoteWorking) | 
 
 ## Day 2 (18.07.2017)
 
