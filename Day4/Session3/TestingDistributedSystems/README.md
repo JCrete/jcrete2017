@@ -5,7 +5,21 @@ Convenor: [Tomasz Nurkiewicz](https://github.com/nurkiewicz)
 
 * Fault testing (see: [Netflix SimianArmy](https://github.com/Netflix/SimianArmy))
 
-* Monitoring vs. testing (see: [Prometheus](https://prometheus.io/) and [Graphite](http://graphite.readthedocs.io/en/latest/))
-
+* Monitoring vs. testing:
+  * Metrics:
+     * [Prometheus](https://prometheus.io/) 
+     * [Graphite](http://graphite.readthedocs.io/en/latest/)
+     * [InfluxDB](https://www.influxdata.com/)
+     * [Kibana](https://www.elastic.co/products/kibana)
+  * Logs:
+     * [Elasticsearch Logstash Kibana](https://www.elastic.co/products)
+  * Incident management:
+     * [OpsGenie](https://www.opsgenie.com/)
+     * [PagerDuty](https://www.pagerduty.com/)
+  * Application Performance Monitoring
+     * [NewRelic](https://newrelic.com)
+     * [DynaTrace](https://www.dynatrace.com/)
+     * [AppDynamics](https://www.appdynamics.com/)
+     * [Illuminate](https://www.jclarity.com/illuminate/)
+     * [To sample or not to sample](https://www.dynatrace.com/blog/apm-myth-busters-sampling-is-as-good-as-having-all-transactions/)
 * Testing event-driven systems
-
