@@ -8,7 +8,7 @@
 | Session # | Time/Room    | Main Room      | Printer Room   | Library       | Chimney   | Scary Room | Hidden Room | Internet Room | Restaurant | Under The Vines |
 | ------------- | -------------| ------------- | -------------   | ------------- | ----------| ---------- | ----------- | ------------- | ---------- | --------------- |
 | 1 | 10:15 - 11:15| Reactive programming  | DevOps scripting  | Machine Learning | Writers Roundable  | Jenkins pipelines  | Java EE Future? | Microservices
-| 2 | 11:30 - 12:30| [Pattern matching on JVM, Valhalla, FFI](https://www.pscp.tv/_nighthacking/1OyKArPggpqGb)  |  SpringBoot  | Replicated State Machines  | Async I/O  | JVM troubleshooting  | Rest event sourcing | [Code Reviews](Day1/Session2/Code_Review) | [Remote Working](Day1/Session2/RemoteWorking) | 
+| 2 | 11:30 - 12:30| [Pattern matching on JVM, Valhalla, FFI](https://www.pscp.tv/_nighthacking/1OyKArPggpqGb)  |  SpringBoot  | Replicated State Machines  | Async I/O  | JVM troubleshooting  | [How to write "Self Healing" code](Day1/Sessions2/Self_Healing) | [Code Reviews](Day1/Session2/Code_Review) | [Remote Working](Day1/Session2/RemoteWorking) | 
 
 ## Day 2 (18.07.2017)
 
@@ -31,7 +31,7 @@
 | Session # | Time/Room    | Main Room     | Printer Room   | Library       | Chimney   | Scary Room | Hidden Room | Internet Room | Restaurant | Under The Vines |
 | ------------- | -------------| ------------- | -------------  | ------------- | ----------| ---------- | ----------- | ------------- | ---------- | --------------- |
 | 9 | 09:00 - 10:00| [Talk 2 your Compiler 4 dummies](https://www.slideshare.net/jjfumero/justintime-gpu-compilation-for-interpreted-languages-with-partial-evaluation) [Video](https://www.pscp.tv/w/1lPJqwNbmjPKb) | Java I/O | From fixed to Growth mindset | Starting a new company | Benchmarks | ORM | [Personal Identifiable Information (PII)](Day4/Session1/PII) | [Fast File Transfer using Raspberry Pi JVM?](Day4/Session1/FastFileRPi)|       
-| 10 | 10:15 - 11:15| [Debugging Java & DB](https://www.pscp.tv/w/1lPJqwNbmjPKb) | [Complex flows in distributed systems](Day4/Session2/EventFlow) | Java on GPU | How to un-organize and organized conference | Integration testing best practices | Mockito | Infrastructure Options | Human Interactive Protocol |       
+| 10 | 10:15 - 11:15| [Debugging Java & DB](https://www.pscp.tv/w/1lPJqwNbmjPKb) | [Complex flows in distributed systems](Day4/Session2/EventFlow) | Java on GPU | How to un-organize and organized conference | Integration testing best practices | Mockito | Infrastructure Options | [Human Interactive Protocol](Day4/Session2/HumanInteractiveProtocol/) |       
 | 11 | 11:30 - 12:30| [Live streaming](https://www.pscp.tv/w/1MnxnmBDolMJO) | Intro to JVM Bytecode | New observer pattern API? | REST APIs | RUST language | Java class reloading | [UI Testing](Day4/Session3/UITesting) | [Testing distributed systems](Day4/Session3/TestingDistributedSystems) |
 
 ## Day 5 - Hackday (21.07.2017)
