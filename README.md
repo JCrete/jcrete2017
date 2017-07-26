@@ -8,7 +8,8 @@
 | Session # | Time/Room    | Main Room      | Printer Room   | Library       | Chimney   | Scary Room | Hidden Room | Internet Room | Restaurant | Under The Vines |
 | ------------- | -------------| ------------- | -------------   | ------------- | ----------| ---------- | ----------- | ------------- | ---------- | --------------- |
 | 1 | 10:15 - 11:15| Reactive programming  | DevOps scripting  | Machine Learning | Writers Roundable  | Jenkins pipelines  | Java EE Future? | Microservices
-| 2 | 11:30 - 12:30| [Pattern matching on JVM, Valhalla, FFI](https://www.pscp.tv/_nighthacking/1OyKArPggpqGb)  |  SpringBoot  | Replicated State Machines  | Async I/O  | JVM troubleshooting  | [How to write "Self Healing" code](Day1/Sessions2/Self_Healing) | [Code Reviews](Day1/Session2/Code_Review) | [Remote Working](Day1/Session2/RemoteWorking) | 
+| 2 | 11:30 - 12:30| [Pattern matching on JVM, Valhalla, FFI](https://www.pscp.tv/_nighthacking/1OyKArPggpqGb)  |  SpringBoot  | Replicated State Machines  | Async I/O  | JVM troubleshooting  | [How to write "Self Healing" code](
+Day1/Session2/Self_Healing) | [Code Reviews](Day1/Session2/Code_Review) | [Remote Working](Day1/Session2/RemoteWorking) | 
 
 ## Day 2 (18.07.2017)
 
