@@ -1,7 +1,7 @@
-# Java - the Bad, the Ugly & JDK9 Deprecation changes
+# Java - the bad, the ugly & JDK9 Deprecation changes
 convened by Mario Fusco and Simon Schell
 
-## Summary - the Bad, the Ugly
+## Summary - the bad, the ugly
 Things we don't like in Java:
 - Checked Exceptions
 - Serializable
