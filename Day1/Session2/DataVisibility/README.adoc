@@ -1,0 +1,20 @@
+= Concurrency explained
+
+Concurrency in Java is hard to get right. Even experts are struggling.
+
+Using examples, we will try to go through the main examples of what works.  
+
+We won't care about performance, liveliness, locks and so on. We will care about correctness **according to the Java Memory
+Model (JMM)**. About data publication. We will answer this simple question: "Will we ever get out of the loop?".
+
+**Gotcha:** It is quite frequent to see a perfectly working program that, in fact, doesn't comply with the JMM. Why?
+Because CPUs and JVM implementations are stricter than what the JMM allows. 
+
+Bottom line, you should never assume that your nicely working code is in fact correct.
+
+== Resources
+
+* https://docs.oracle.com/javase/specs/[Java Language Specification] - Chapter 17 mainly
+* http://gee.cs.oswego.edu/dl/jmm/cookbook.html[JSR-133 Cookbook]
+* https://www.amazon.ca/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601[Java Concurrency in Practice]
+* https://www.amazon.ca/Well-Grounded-Java-Developer-techniques-programming/dp/1617290068[The Well-Grounded Java Developer] - Chapter 4
