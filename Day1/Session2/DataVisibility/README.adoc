@@ -18,3 +18,10 @@ Bottom line, you should never assume that your nicely working code is in fact co
 * http://gee.cs.oswego.edu/dl/jmm/cookbook.html[JSR-133 Cookbook]
 * https://www.amazon.ca/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601[Java Concurrency in Practice]
 * https://www.amazon.ca/Well-Grounded-Java-Developer-techniques-programming/dp/1617290068[The Well-Grounded Java Developer] - Chapter 4
+
+== Contributors
+
+* http://blog.tremblay.pro[Henri Tremblay]
+* http://jpbempel.blogspot.ca[Jean-Philippe Bempel]
+* http://www.obourgain.com/blog[Olivier Bourgain]
+* http://www.christophengelbert.com/[Christoph Engelbert]
